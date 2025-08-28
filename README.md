@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akshatshrivast/OctaMind/main/client/public/logo.png" alt="OctaMind Logo" width="120"/>
-</p>
+
 
 <h1 align="center">✨ OctaMind – AI-Powered Full-Stack Chatbot ✨</h1>
 
