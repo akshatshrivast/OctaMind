@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Development of this repository is currently in a halt, due to lack of time. Updates are comming end of June.
 
 working again ; ) 
@@ -82,3 +83,6 @@ The easiest way to run ChatGPT Clone is by using docker
 docker-compose up
 ```
 
+=======
+# OctaMind
+>>>>>>> 12f6daee81ebeeef21b79b1141ca103ca9633311
